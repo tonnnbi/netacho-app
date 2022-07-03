@@ -29,7 +29,7 @@ const Navbar = () => {
                         知識
                     </a>
                     <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
-                        漫画・アニメ・テレビ番組
+                        漫画・アニメ・テレビ番組・ドラマ
                     </a>
                     <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
                         ネット
